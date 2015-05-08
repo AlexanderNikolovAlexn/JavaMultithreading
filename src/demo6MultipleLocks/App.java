@@ -1,4 +1,4 @@
-package demo6UsingLocks;
+package demo6MultipleLocks;
 
 public class App {
 

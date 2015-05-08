@@ -1,4 +1,4 @@
-package demo6UsingLocks;
+package demo6MultipleLocks;
 
 import java.util.ArrayList;
 import java.util.List;
