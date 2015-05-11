@@ -1,4 +1,4 @@
-package demo8ProducerConsumerPattern;
+package demo9ProducerConsumerPattern;
 
 import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;
